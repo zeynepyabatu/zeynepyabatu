@@ -1,16 +1,14 @@
-## Hi there 👋
+# Merhaba, ben Zeynep 👋
 
-<!--
-**zeynepyabatu/zeynepyabatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirme alanında kendimi geliştiren, **backend** tarafına özellikle ilgi duyan bir **junior yazılım geliştiriciyim**.
 
-Here are some ideas to get you started:
+- 🎓 Yalova Üniversitesi Bilgisayar Programcılığı mezunu (2026), Anadolu Üniversitesi'nde Yapay Zeka ile Kodlama eğitimime devam ediyorum
+- 💻 C, C++, C#, Java, Python, PHP ile çalışıyorum
+- 🌐 HTML, CSS, JavaScript ve SQL ile web/veritabanı tarafında da rahatım
+- 🚀 Şu anda ASP.NET Core ve Entity Framework Core öğreniyorum
+- 📌 Öne çıkan proje: [Budget Tracker API](https://github.com/zeynepyabatu/BudgetTrackerApi) — JWT authentication, tam CRUD ve SQLite kullanan bir kişisel bütçe takip API'si
+- 🌱 Yeni teknolojiler öğrenmeye ve staj/junior pozisyonlarda deneyim kazanmaya açığım
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### İletişim
+- LinkedIn: [Zeynep Nur Yabatu](https://www.linkedin.com/in/zeynep-nur-yabatu-37b7b61a8/)
+- E-posta: zeynepnuryabatu@gmail.com
